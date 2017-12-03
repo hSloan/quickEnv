@@ -12,3 +12,5 @@ $ cd quickEnv
 
 $ ./setup-nix
 ```
+Once that is complete you are good to go! 
+Feel free to read each README within the individual programming language directories 
