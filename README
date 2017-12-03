@@ -1,0 +1,10 @@
+Getting started with quickEnv:
+
+These series of scripts make heavy use of the Nix package management. 
+
+If you don't have nix or nixOS setup on your machine already, 
+simply run the `setup-nix` script in your terminal, like so:
+
+```
+$ ./setup-nix
+```

@@ -1,0 +1,14 @@
+Getting a quick environment container with Java:
+
+Assuming you have already set up nix package management on your machine. 
+You can copy the `default.nix` file found here into your new python project 
+directory as a quick start. 
+
+Add whatever packages you would like to be in scope of your project to 
+`default.nix` and simply run
+
+```
+$ nix-shell
+```
+
+For more information using nix with Java, consult https://nixos.org/nixpkgs/manual/#sec-language-java

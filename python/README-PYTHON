@@ -1,0 +1,14 @@
+Getting a quick environment container with Python:
+
+Assuming you have already set up nix package management on your machine. 
+You can copy the `shell.nix` file found here into your new python project 
+directory as a quick start. 
+
+Add whatever packages you would like to be in scope of your project to 
+`shell.nix` and simply run
+
+```
+$ nix-shell
+```
+
+For more information using nix with Python, consult https://nixos.org/nixpkgs/manual/#using-python
