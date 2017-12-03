@@ -8,5 +8,7 @@ simply run the `setup-nix` script in your terminal, like so:
 ```
 $ git clone [paste repo link here]
 
+$ cd quickEnv
+
 $ ./setup-nix
 ```
