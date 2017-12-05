@@ -12,5 +12,7 @@ $ cd quickEnv
 
 $ ./setup-nix
 ```
-Once that is complete you are good to go! 
+Once that is complete, follow the instructions that have been output in your
+console or restart your computer and you are good to go! 
+
 Feel free to read each README within the individual programming language directories 
