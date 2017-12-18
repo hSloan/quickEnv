@@ -1,0 +1,9 @@
+Quick start haskell environments: 
+
+So you dont have to worry about dealing with cabal or stack
+for the moment. You can use the `$nix-shell` commmand to bring
+haskell packages you request, by altering  the provided `shell.nix`
+file. 
+
+Afterwards feel free to utilize the usual ghc (compiler) or 
+ghci (interactive compiler commands)
