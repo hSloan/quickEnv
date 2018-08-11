@@ -1,5 +1,4 @@
 with import <nixpkgs> {}; 
-with import ./dynamoDb.nix;
 
 stdenv.mkDerivation rec {
   name = "nodejs-env"; 
